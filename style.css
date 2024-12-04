@@ -1,0 +1,11 @@
+#nameContainer {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: rgb(160, 108, 195);
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
